@@ -1,0 +1,1 @@
+print("jebac entaisa pozdro")
